@@ -15,10 +15,10 @@ The DApp User Interface when running should look like...
 
 ## UML
 
-[Activity](screenshots/activity-diagram.png)
-[Class](screenshots/class-diagram.png)
-[Sequence](screenshots/sequence-diagram.png)
-[State](screenshots/state-diagram.png)
+![Activity](screenshots/activity-diagram.png)
+![Class](screenshots/class-diagram.png)
+![Sequence](screenshots/sequence-diagram.png)
+![State](screenshots/state-diagram.png)
 
 
 
