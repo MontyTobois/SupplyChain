@@ -1,0 +1,5 @@
+node_modules
+build/contracts
+package-lock.json
+.vscode
+bs-config.json

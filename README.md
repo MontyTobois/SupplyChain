@@ -40,9 +40,6 @@ A step by step series of examples that tell you have to get a development env ru
 
 Clone this repository:
 
-```
-git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
-```
 
 Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
 
@@ -117,7 +114,7 @@ to make the web faster, safer, and more open.
 
 Transaction Address: https://rinkeby.etherscan.io/tx/0xfb4221338e45eb0e9e281dc83928a465a6b9bb6921a97601c3b884cc2ff0b2f3 Contract Address: `0x27d8d15cbc94527cadf5ec14b69519ae23288b95`
 
-When you have any logistical chain you need to know where things orginally comes from. If you're having coffee you want to make sure the beans are harvested ethically and effieciently. There is massive logisitcal process from harvesting the beans, processing them, selling them to distributors, and then to customers where there isn't always a lot of transparency and trust. By building a blockchain solution, the consumer can know exactly when and where the beans were harvest and see it through it's lifecycle. Ready to arrive to them. This is one global, scalable solution that companies and conusmers could choose to adopt and advocate for.
+When you have any logistical chain you need to know where things orginally comes from. If you're having coffee you want to make sure the beans are harvested ethically and effieciently. There is massive logisitcal process from harvesting the beans, processing them, selling them to distributors, and then to customers where there isn't always a lot of transparency and trust. By building a blockchain solution, the consumer can know exactly when and where the beans were harvest and see it through it's lifecycle. Ready to arrive to them. This is one global, scalable solution that companies and consumers could choose to adopt and advocate for.
 
 Versions: Truffle v5.3.3 (core: 5.3.3) Solidity v0.5.16 (solc-js) Node v10.16.0 Web3.js v1.3.5
 
