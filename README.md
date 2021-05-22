@@ -13,13 +13,17 @@ The DApp User Interface when running should look like...
 ![truffle test](images/ftc_transaction_history.png)
 
 
-## UML
+##  Requirement 1: UML
 
 ![Activity](screenshots/activity-diagram.png)
 ![Class](screenshots/class-diagram.png)
 ![Sequence](screenshots/sequence-diagram.png)
 ![State](screenshots/state-diagram.png)
 
+
+
+##  Requirement 2: Libaries
+I used one library called Roles which made it easier to manage AccessControl in my DAPP. With this I'm able to intergrate roles for each of mt contracts (FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol).
 
 
 ## Getting Started
@@ -38,8 +42,7 @@ Give examples (to be clarified)
 
 A step by step series of examples that tell you have to get a development env running
 
-Clone this repository:
-
+Clone this repository
 
 Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
 
@@ -99,8 +102,6 @@ npm run dev
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
-* [IPFS](https://ipfs.io/) - IPFS is the Distributed Web | A peer-to-peer hypermedia protocol
-to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
 
@@ -109,7 +110,6 @@ to make the web faster, safer, and more open.
 * Solidity
 * Ganache-cli
 * Truffle
-
 
 
 Transaction Address: https://rinkeby.etherscan.io/tx/0xfb4221338e45eb0e9e281dc83928a465a6b9bb6921a97601c3b884cc2ff0b2f3 Contract Address: `0x27d8d15cbc94527cadf5ec14b69519ae23288b95`
